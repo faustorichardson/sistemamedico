@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsMaestroTipoEspecialidades" targetNamespace="http://tempuri.org/dsMaestroTipoEspecialidades.xsd" xmlns:mstns="http://tempuri.org/dsMaestroTipoEspecialidades.xsd" xmlns="http://tempuri.org/dsMaestroTipoEspecialidades.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsMaestroTipoEspecialidades" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsMaestroTipoEspecialidades" msprop:Generator_UserDSName="dsMaestroTipoEspecialidades">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dsTipoEspecialidades" msprop:Generator_TableClassName="dsTipoEspecialidadesDataTable" msprop:Generator_TableVarName="tabledsTipoEspecialidades" msprop:Generator_TablePropName="dsTipoEspecialidades" msprop:Generator_RowDeletingName="dsTipoEspecialidadesRowDeleting" msprop:Generator_UserTableName="dsTipoEspecialidades" msprop:Generator_RowChangingName="dsTipoEspecialidadesRowChanging" msprop:Generator_RowEvHandlerName="dsTipoEspecialidadesRowChangeEventHandler" msprop:Generator_RowDeletedName="dsTipoEspecialidadesRowDeleted" msprop:Generator_RowEvArgName="dsTipoEspecialidadesRowChangeEvent" msprop:Generator_RowChangedName="dsTipoEspecialidadesRowChanged" msprop:Generator_RowClassName="dsTipoEspecialidadesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_tipoespecialidad" msprop:Generator_ColumnVarNameInTable="columnid_tipoespecialidad" msprop:Generator_ColumnPropNameInRow="id_tipoespecialidad" msprop:Generator_ColumnPropNameInTable="id_tipoespecialidadColumn" msprop:Generator_UserColumnName="id_tipoespecialidad" type="xs:int" minOccurs="0" />
+              <xs:element name="descripcion_tipoespecialidad" msprop:Generator_ColumnVarNameInTable="columndescripcion_tipoespecialidad" msprop:Generator_ColumnPropNameInRow="descripcion_tipoespecialidad" msprop:Generator_ColumnPropNameInTable="descripcion_tipoespecialidadColumn" msprop:Generator_UserColumnName="descripcion_tipoespecialidad" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

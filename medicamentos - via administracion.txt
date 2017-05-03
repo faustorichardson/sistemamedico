@@ -1,0 +1,57 @@
+
+3.3 Según la vía de administración
+
+3.3.1 Oral
+3.3.1.1 Gotas
+3.3.1.2 Jarabes
+3.3.1.3 Tisanas
+3.3.1.4 Elixires
+3.3.1.5 Suspensiones
+3.3.1.6 Suspensión extemporánea
+3.3.1.7 Viales bebibles
+3.3.1.8 Comprimidos
+3.3.1.9 Cápsulas
+3.3.1.10 Granulados
+3.3.1.11 Sellos
+3.3.1.12 Píldoras
+3.3.1.13 Pastillas
+3.3.1.14 Pastillas oficinales o trociscos
+3.3.1.15 Liofilizados
+3.3.1.16 Colutorios
+
+3.3.2 Sublingual
+
+3.3.3 Parenteral
+3.3.3.1 Vía intravenosa
+3.3.3.2 Vía intraarterial
+3.3.3.3 Vía intramuscular
+3.3.3.4 Vía subcutánea
+3.3.3.5 Otras vías parenterales
+
+3.3.4 Rectal
+3.3.4.1 Supositorios
+3.3.4.2 Cápsulas rectales
+3.3.4.3 Soluciones y dispersiones rectales
+3.3.4.4 Pomadas rectales
+
+3.3.5 Tópica
+3.3.5.1 Baños
+3.3.5.2 Lociones
+3.3.5.3 Toques o pincelaciones
+3.3.5.4 Tinturas
+3.3.5.5 Linimentos
+3.3.5.6 Polvos
+3.3.5.7 Pastas
+3.3.5.8 Pomadas o ungüentos
+3.3.5.9 Emulsiones
+3.3.5.10 Geles
+3.3.5.11 Champús
+3.3.5.12 Colirios
+3.3.5.13 Gotas óticas y nasales
+3.3.5.14 Apósitos
+
+3.3.6 Percutánea o transdérmica
+3.3.6.1 Parches transdérmicos
+3.3.6.2 La iontoforesis
+
+3.3.7 Inhalada

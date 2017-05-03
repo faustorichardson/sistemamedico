@@ -1,0 +1,54 @@
+﻿***********      Apuntes de Avances   **********************
+03-12-2014 Modifique formulario Login del sistema
+		   Agruegue tablas:
+		   Mproduct: Maestro de productos o articulos farmacia
+		   T_mov.... Correlativo de secuencias de tipos de movimientos
+		   Invent... Libro movimientos de Inventario
+		   Usuario...
+		   Cagtego... Categoria de Articulos
+		   subcatego.. Subcategorias de articulos
+
+
+07-12-2014 Agregue la tabla licenciamedica que almacenara los
+		   cedula paciente, rango, fecha, departamento, dependencia,
+		   cedula doctor que lo atendio, y razonlicencia que es un 
+		   campo texto con la razon del por que de la licencia.
+
+		   Esto permitira realizar reportes por:
+		   -rango
+		   -fecha
+		   -departamento
+		   -dependencias
+		   -cantidad licencias han dado un doctor
+
+		   Ya disene el formulario para captura de esta informacion, solo
+		   me falta ponerlo a funcionar en todas sus vertientes.
+
+08-12-2014
+			- agregue formulairo frmBuscarArticulos
+			- Agregue form frmBuscarMiembros
+			-  "        " frmPrinter
+			- "         " frmRepMovInventario
+			- Agregue DataSet Tipado dsMovInventario
+			- Agregue reporte rptMovInventario
+			- Modifique estructura de la BD: Rangos.RangoAbrev, Invent.cedula, Config.Jefe, config.Rango_jefe
+09-12-2014
+			- Agregue vistas vPaciente,vMedicos,vReimprimeTR a la BD
+			- Agreugue SP spReimprimeTR que recibe dos parametros
+			- Agregue reporte rptTransaccion
+			- Agreuge form frmReimprimeTR
+			- Agregue formulario frmBsucarDoctor
+			Pendiente frmArticulos
+
+17-12-2014
+erro CR:
+Se detectó ContextSwitchDeadlock
+Message: El CLR no ha podido realizar la transición del contexto COM 0x1024d48 al contexto COM 0x1024e00 durante 
+60 segundos. Es probable que el subproceso que contiene el contexto o apartamento de destino esté en espera sin 
+proporcionar mensajes o que procese una operación de ejecución muy larga que no proporcione mensajes Windows.
+Normalmente, esta situación tiene un impacto negativo en el rendimiento y puede hacer que la aplicación no responda
+o que acumule continuamente el uso de la memoria. Para evitar este problema, todos los subprocesos de contenedores
+uniproceso (STA) deberían utilizar primitivos de espera que proporcionen mensajes (como CoWaitForMultipleHandles)
+y proporcionar mensajes regularmente durante operaciones de ejecución largas.
+
+	- Recree BD con las tablas de Fausto

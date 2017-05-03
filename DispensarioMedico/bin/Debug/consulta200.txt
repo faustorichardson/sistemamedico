@@ -1,0 +1,16 @@
+INSERT INTO invent(cod_1,fecha,tipo_mov,no_docum,ord_comp,cantidad,valor,almacen,lote,nota,usuario,fecfab,fecven,cedula,medico)
+VALUES ('000055','2015-01-29 20:17:58','23','2','2','200','0','1','','sdf','TURBIL','0001-01-01 00:00:00','0001-01-01 00:00:00','999-9999999-9','999-9999999-9')
+update mproduct set cant_exist = cant_exist + 200,  almacen1 = almacen1 + 200
+
+
+INSERT INTO invent(cod_1,fecha,tipo_mov,no_docum,ord_comp,cantidad,valor,almacen,lote,nota,usuario,fecfab,fecven,cedula,medico)
+VALUES ('000054','2015-01-29 20:17:58','23','2','2','200','0.00','1','','sdf','TURBIL','0001-01-01 00:00:00','0001-01-01 00:00:00','999-9999999-9','999-9999999-9')
+update mproduct set cant_exist = cant_exist + 200,  almacen1 = almacen1 + 200
+
+INSERT INTO invent(cod_1,fecha,tipo_mov,no_docum,ord_comp,cantidad,valor,almacen,lote,nota,usuario,fecfab,fecven,cedula,medico) 
+VALUES ('000053','2015-01-29 20:17:58','23','2','2','200','0.00','1','','sdf','TURBIL','0001-01-01 00:00:00','0001-01-01 00:00:00','999-9999999-9','999-9999999-9') 
+update mproduct set cant_exist = cant_exist + 200,  almacen1 = almacen1 + 200
+
+INSERT INTO invent(cod_1,fecha,tipo_mov,no_docum,ord_comp,cantidad,valor,almacen,lote,nota,usuario,fecfab,fecven,cedula,medico)
+VALUES ('000056','2015-01-29 20:17:58','23','2','2','200.00','0.00','1','','sdf','TURBIL','0001-01-01 00:00:00','0001-01-01 00:00:00','999-9999999-9','999-9999999-9')
+update mproduct set cant_exist = cant_exist + 200.00,  almacen1 = almacen1 + 200.00 

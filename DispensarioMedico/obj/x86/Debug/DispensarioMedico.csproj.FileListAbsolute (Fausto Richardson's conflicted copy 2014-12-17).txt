@@ -1,0 +1,177 @@
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmAntecedentesPersonales.resources
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMenu.resources
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmProblemaMedicoRegistro.resources
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmRegistroDoctores.resources
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.login.resources
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.Properties.Resources.resources
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.exe
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.pdb
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.exe
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.pdb
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroEspecialidades.resources
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroDepartamento.resources
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroTipoEspecialidad.resources
+C:\Users\fausto\Desktop\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmAntecedentesFamiliaresPaciente.resources
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.exe
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.pdb
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\bin\Debug\MySql.Data.dll
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmAntecedentesPersonales.resources
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBase.resources
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroDepartamento.resources
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroEspecialidades.resources
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroTipoEspecialidad.resources
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMenu.resources
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmProblemaMedicoRegistro.resources
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmRegistroDoctores.resources
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.Properties.Resources.resources
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.exe
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.pdb
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmLogin.resources
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.exe.config
+C:\Users\fausto\Desktop\c#Databases\PROYECTOS M DE G\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmPrintTipoEspecialidades.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmAntecedentesPersonales.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBase.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarArticulo.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarDoctor.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarPaciente.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmImprimirMedico.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmLicenciaMedica.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroDepartamento.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroEspecialidades.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroTipoEspecialidad.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMenu.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMovInventario.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmPrinter.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmPrintTipoEspecialidades.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmProblemaMedicoRegistro.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmRegistroDoctores.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmLogin.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmReimprimeTR.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmRepMovInventario.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.Properties.Resources.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.csproj.GenerateResource.Cache
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.exe.config
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.exe
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.pdb
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\VFPToolkitNET.dll
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmCitaMedica.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.exe
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.pdb
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.exe.config
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.exe
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.pdb
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\VFPToolkitNET.dll
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmAntecedentesPersonales.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBase.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarArticulo.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarDoctor.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarPaciente.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmCitaMedica.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmImprimirMedico.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmImprimirProblemaMedico.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmLicenciaMedica.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroDepartamento.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroEspecialidades.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroTipoEspecialidad.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMenu.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMovInventario.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmPrinter.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmPrintTipoEspecialidades.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmProblemaMedicoRegistro.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmRegistroDoctores.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmLogin.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmReimprimeTR.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmRepMovInventario.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.Properties.Resources.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.csproj.GenerateResource.Cache
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.exe
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.pdb
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmPrintCitasMedicas.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBackUp.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBackUp.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmImprimirProblemaMedico.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmPrintCitasMedicas.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\MySql.Data.dll
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\MySqlBackup.dll
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\MySql.Data.dll
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\MySqlBackup.dll
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmHistorialBackups.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmImprimeBackUps.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarBackups.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmArticulos.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmArticulos.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarBackups.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmHistorialBackups.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmImprimeBackUps.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.csprojResolveAssemblyReference.cache
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.exe.config
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.exe
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DispensarioMedico.pdb
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\MySql.Data.dll
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\MySqlBackup.dll
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\bin\Debug\VFPToolkitNET.dll
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmAntecedentesPersonales.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmArticulos.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBackUp.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBase.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarArticulo.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarBackups.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarDoctor.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarPaciente.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmCitaMedica.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmGenRptLicenciasMedicas.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmHistorialBackups.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmImprimeBackUps.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmImprimirMedico.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmImprimirProblemaMedico.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmLicenciaMedica.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroDepartamento.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroEspecialidades.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMaestroTipoEspecialidad.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMenu.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmMovInventario.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmPrintCitasMedicas.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmPrinter.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmPrintTipoEspecialidades.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmProblemaMedicoRegistro.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmRegistroDoctores.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmLogin.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmReimprimeTR.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmRepArticulos.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmRepMovInventario.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.Properties.Resources.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.exe
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.pdb
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmRepArticulos.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmGenRptLicenciasMedicas.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmGenRptLicenciasMedicas.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmRepArticulos.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmAbout.resources
+C:\Users\Miguelina De la Cruz\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmAbout.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmAbout.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmErrores.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarErrores.resources
+C:\Users\Administrador\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmErrores.resources
+C:\Users\fausto\Dropbox\SisGEmp\DispensarioMedico\DispensarioMedico\obj\x86\Debug\DispensarioMedico.frmBuscarErrores.resources

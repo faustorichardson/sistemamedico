@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPaciente" targetNamespace="http://tempuri.org/dsPaciente.xsd" xmlns:mstns="http://tempuri.org/dsPaciente.xsd" xmlns="http://tempuri.org/dsPaciente.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPaciente" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsPaciente" msprop:Generator_UserDSName="dsPaciente">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtPaciente" msprop:Generator_TableClassName="dtPacienteDataTable" msprop:Generator_TableVarName="tabledtPaciente" msprop:Generator_RowChangedName="dtPacienteRowChanged" msprop:Generator_TablePropName="dtPaciente" msprop:Generator_RowDeletingName="dtPacienteRowDeleting" msprop:Generator_RowChangingName="dtPacienteRowChanging" msprop:Generator_RowEvHandlerName="dtPacienteRowChangeEventHandler" msprop:Generator_RowDeletedName="dtPacienteRowDeleted" msprop:Generator_RowClassName="dtPacienteRow" msprop:Generator_UserTableName="dtPaciente" msprop:Generator_RowEvArgName="dtPacienteRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_paciente" msprop:Generator_ColumnVarNameInTable="columnid_paciente" msprop:Generator_ColumnPropNameInRow="id_paciente" msprop:Generator_ColumnPropNameInTable="id_pacienteColumn" msprop:Generator_UserColumnName="id_paciente" type="xs:int" minOccurs="0" />
+              <xs:element name="cedula" msprop:Generator_ColumnVarNameInTable="columncedula" msprop:Generator_ColumnPropNameInRow="cedula" msprop:Generator_ColumnPropNameInTable="cedulaColumn" msprop:Generator_UserColumnName="cedula" type="xs:string" minOccurs="0" />
+              <xs:element name="rango" msprop:Generator_ColumnVarNameInTable="columnrango" msprop:Generator_ColumnPropNameInRow="rango" msprop:Generator_ColumnPropNameInTable="rangoColumn" msprop:Generator_UserColumnName="rango" type="xs:int" minOccurs="0" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="apellido" msprop:Generator_ColumnVarNameInTable="columnapellido" msprop:Generator_ColumnPropNameInRow="apellido" msprop:Generator_ColumnPropNameInTable="apellidoColumn" msprop:Generator_UserColumnName="apellido" type="xs:string" minOccurs="0" />
+              <xs:element name="edad" msprop:Generator_ColumnVarNameInTable="columnedad" msprop:Generator_ColumnPropNameInRow="edad" msprop:Generator_ColumnPropNameInTable="edadColumn" msprop:Generator_UserColumnName="edad" type="xs:int" minOccurs="0" />
+              <xs:element name="sexo" msprop:Generator_ColumnVarNameInTable="columnsexo" msprop:Generator_ColumnPropNameInRow="sexo" msprop:Generator_ColumnPropNameInTable="sexoColumn" msprop:Generator_UserColumnName="sexo" type="xs:string" minOccurs="0" />
+              <xs:element name="dato_nacimiento" msprop:Generator_ColumnVarNameInTable="columndato_nacimiento" msprop:Generator_ColumnPropNameInRow="dato_nacimiento" msprop:Generator_ColumnPropNameInTable="dato_nacimientoColumn" msprop:Generator_UserColumnName="dato_nacimiento" type="xs:string" minOccurs="0" />
+              <xs:element name="dato_alimentacion" msprop:Generator_ColumnVarNameInTable="columndato_alimentacion" msprop:Generator_ColumnPropNameInRow="dato_alimentacion" msprop:Generator_ColumnPropNameInTable="dato_alimentacionColumn" msprop:Generator_UserColumnName="dato_alimentacion" type="xs:string" minOccurs="0" />
+              <xs:element name="dato_condicionespsicologicas" msprop:Generator_ColumnVarNameInTable="columndato_condicionespsicologicas" msprop:Generator_ColumnPropNameInRow="dato_condicionespsicologicas" msprop:Generator_ColumnPropNameInTable="dato_condicionespsicologicasColumn" msprop:Generator_UserColumnName="dato_condicionespsicologicas" type="xs:string" minOccurs="0" />
+              <xs:element name="dato_sexualidad" msprop:Generator_ColumnVarNameInTable="columndato_sexualidad" msprop:Generator_ColumnPropNameInRow="dato_sexualidad" msprop:Generator_ColumnPropNameInTable="dato_sexualidadColumn" msprop:Generator_UserColumnName="dato_sexualidad" type="xs:string" minOccurs="0" />
+              <xs:element name="dato_operaciones" msprop:Generator_ColumnVarNameInTable="columndato_operaciones" msprop:Generator_ColumnPropNameInRow="dato_operaciones" msprop:Generator_ColumnPropNameInTable="dato_operacionesColumn" msprop:Generator_UserColumnName="dato_operaciones" type="xs:string" minOccurs="0" />
+              <xs:element name="dato_intoleranciamedicinal" msprop:Generator_ColumnVarNameInTable="columndato_intoleranciamedicinal" msprop:Generator_ColumnPropNameInRow="dato_intoleranciamedicinal" msprop:Generator_ColumnPropNameInTable="dato_intoleranciamedicinalColumn" msprop:Generator_UserColumnName="dato_intoleranciamedicinal" type="xs:string" minOccurs="0" />
+              <xs:element name="dato_saludpadres" msprop:Generator_ColumnVarNameInTable="columndato_saludpadres" msprop:Generator_ColumnPropNameInRow="dato_saludpadres" msprop:Generator_ColumnPropNameInTable="dato_saludpadresColumn" msprop:Generator_UserColumnName="dato_saludpadres" type="xs:string" minOccurs="0" />
+              <xs:element name="dato_saludhermanos" msprop:Generator_ColumnVarNameInTable="columndato_saludhermanos" msprop:Generator_ColumnPropNameInRow="dato_saludhermanos" msprop:Generator_ColumnPropNameInTable="dato_saludhermanosColumn" msprop:Generator_UserColumnName="dato_saludhermanos" type="xs:string" minOccurs="0" />
+              <xs:element name="dato_saludesposahijos" msprop:Generator_ColumnVarNameInTable="columndato_saludesposahijos" msprop:Generator_ColumnPropNameInRow="dato_saludesposahijos" msprop:Generator_ColumnPropNameInTable="dato_saludesposahijosColumn" msprop:Generator_UserColumnName="dato_saludesposahijos" type="xs:string" minOccurs="0" />
+              <xs:element name="dato_saludfamiliargeneral" msprop:Generator_ColumnVarNameInTable="columndato_saludfamiliargeneral" msprop:Generator_ColumnPropNameInRow="dato_saludfamiliargeneral" msprop:Generator_ColumnPropNameInTable="dato_saludfamiliargeneralColumn" msprop:Generator_UserColumnName="dato_saludfamiliargeneral" type="xs:string" minOccurs="0" />
+              <xs:element name="fecharegistro" msprop:Generator_ColumnVarNameInTable="columnfecharegistro" msprop:Generator_ColumnPropNameInRow="fecharegistro" msprop:Generator_ColumnPropNameInTable="fecharegistroColumn" msprop:Generator_UserColumnName="fecharegistro" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="fechaupdate" msprop:Generator_ColumnVarNameInTable="columnfechaupdate" msprop:Generator_ColumnPropNameInRow="fechaupdate" msprop:Generator_ColumnPropNameInTable="fechaupdateColumn" msprop:Generator_UserColumnName="fechaupdate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="rutafoto" msprop:Generator_ColumnVarNameInTable="columnrutafoto" msprop:Generator_ColumnPropNameInRow="rutafoto" msprop:Generator_ColumnPropNameInTable="rutafotoColumn" msprop:Generator_UserColumnName="rutafoto" type="xs:string" minOccurs="0" />
+              <xs:element name="nomsec" msprop:Generator_ColumnVarNameInTable="columnnomsec" msprop:Generator_ColumnPropNameInRow="nomsec" msprop:Generator_ColumnPropNameInTable="nomsecColumn" msprop:Generator_UserColumnName="nomsec" type="xs:string" minOccurs="0" />
+              <xs:element name="rango_descripcion" msprop:Generator_ColumnVarNameInTable="columnrango_descripcion" msprop:Generator_ColumnPropNameInRow="rango_descripcion" msprop:Generator_ColumnPropNameInTable="rango_descripcionColumn" msprop:Generator_UserColumnName="rango_descripcion" type="xs:string" minOccurs="0" />
+              <xs:element name="rangoabrev" msprop:Generator_ColumnVarNameInTable="columnrangoabrev" msprop:Generator_ColumnPropNameInRow="rangoabrev" msprop:Generator_ColumnPropNameInTable="rangoabrevColumn" msprop:Generator_UserColumnName="rangoabrev" type="xs:string" minOccurs="0" />
+              <xs:element name="id_rango" msprop:Generator_ColumnVarNameInTable="columnid_rango" msprop:Generator_ColumnPropNameInRow="id_rango" msprop:Generator_ColumnPropNameInTable="id_rangoColumn" msprop:Generator_UserColumnName="id_rango" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

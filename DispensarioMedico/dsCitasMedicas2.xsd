@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCitasMedicas2" targetNamespace="http://tempuri.org/dsCitasMedicas2.xsd" xmlns:mstns="http://tempuri.org/dsCitasMedicas2.xsd" xmlns="http://tempuri.org/dsCitasMedicas2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCitasMedicas2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsCitasMedicas2" msprop:Generator_UserDSName="dsCitasMedicas2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtCitasMedica" msprop:Generator_TableClassName="dtCitasMedicaDataTable" msprop:Generator_TableVarName="tabledtCitasMedica" msprop:Generator_TablePropName="dtCitasMedica" msprop:Generator_RowDeletingName="dtCitasMedicaRowDeleting" msprop:Generator_UserTableName="dtCitasMedica" msprop:Generator_RowChangingName="dtCitasMedicaRowChanging" msprop:Generator_RowEvHandlerName="dtCitasMedicaRowChangeEventHandler" msprop:Generator_RowDeletedName="dtCitasMedicaRowDeleted" msprop:Generator_RowEvArgName="dtCitasMedicaRowChangeEvent" msprop:Generator_RowChangedName="dtCitasMedicaRowChanged" msprop:Generator_RowClassName="dtCitasMedicaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="fecha" msprop:Generator_ColumnVarNameInTable="columnfecha" msprop:Generator_ColumnPropNameInRow="fecha" msprop:Generator_ColumnPropNameInTable="fechaColumn" msprop:Generator_UserColumnName="fecha" type="xs:string" minOccurs="0" />
+              <xs:element name="ceduladoctor" msprop:Generator_ColumnVarNameInTable="columnceduladoctor" msprop:Generator_ColumnPropNameInRow="ceduladoctor" msprop:Generator_ColumnPropNameInTable="ceduladoctorColumn" msprop:Generator_UserColumnName="ceduladoctor" type="xs:string" minOccurs="0" />
+              <xs:element name="cedulapaciente" msprop:Generator_ColumnVarNameInTable="columncedulapaciente" msprop:Generator_ColumnPropNameInRow="cedulapaciente" msprop:Generator_ColumnPropNameInTable="cedulapacienteColumn" msprop:Generator_UserColumnName="cedulapaciente" type="xs:string" minOccurs="0" />
+              <xs:element name="fechacita" msprop:Generator_ColumnVarNameInTable="columnfechacita" msprop:Generator_ColumnPropNameInRow="fechacita" msprop:Generator_ColumnPropNameInTable="fechacitaColumn" msprop:Generator_UserColumnName="fechacita" type="xs:string" minOccurs="0" />
+              <xs:element name="referimiento" msprop:Generator_ColumnVarNameInTable="columnreferimiento" msprop:Generator_ColumnPropNameInRow="referimiento" msprop:Generator_ColumnPropNameInTable="referimientoColumn" msprop:Generator_UserColumnName="referimiento" type="xs:string" minOccurs="0" />
+              <xs:element name="departamento_descripcion" msprop:Generator_ColumnVarNameInTable="columndepartamento_descripcion" msprop:Generator_ColumnPropNameInRow="departamento_descripcion" msprop:Generator_ColumnPropNameInTable="departamento_descripcionColumn" msprop:Generator_UserColumnName="departamento_descripcion" type="xs:string" minOccurs="0" />
+              <xs:element name="doctores_rango" msprop:Generator_ColumnVarNameInTable="columndoctores_rango" msprop:Generator_ColumnPropNameInRow="doctores_rango" msprop:Generator_ColumnPropNameInTable="doctores_rangoColumn" msprop:Generator_UserColumnName="doctores_rango" type="xs:string" minOccurs="0" />
+              <xs:element name="doctores_nombre" msprop:Generator_ColumnVarNameInTable="columndoctores_nombre" msprop:Generator_ColumnPropNameInRow="doctores_nombre" msprop:Generator_ColumnPropNameInTable="doctores_nombreColumn" msprop:Generator_UserColumnName="doctores_nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="doctores_apellido" msprop:Generator_ColumnVarNameInTable="columndoctores_apellido" msprop:Generator_ColumnPropNameInRow="doctores_apellido" msprop:Generator_ColumnPropNameInTable="doctores_apellidoColumn" msprop:Generator_UserColumnName="doctores_apellido" type="xs:string" minOccurs="0" />
+              <xs:element name="nombre" msprop:Generator_ColumnVarNameInTable="columnnombre" msprop:Generator_ColumnPropNameInRow="nombre" msprop:Generator_ColumnPropNameInTable="nombreColumn" msprop:Generator_UserColumnName="nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="apellido" msprop:Generator_ColumnVarNameInTable="columnapellido" msprop:Generator_ColumnPropNameInRow="apellido" msprop:Generator_ColumnPropNameInTable="apellidoColumn" msprop:Generator_UserColumnName="apellido" type="xs:string" minOccurs="0" />
+              <xs:element name="idcita" msprop:Generator_ColumnVarNameInTable="columnidcita" msprop:Generator_ColumnPropNameInRow="idcita" msprop:Generator_ColumnPropNameInTable="idcitaColumn" msprop:Generator_UserColumnName="idcita" type="xs:string" minOccurs="0" />
+              <xs:element name="doctor" msprop:Generator_ColumnVarNameInTable="columndoctor" msprop:Generator_ColumnPropNameInRow="doctor" msprop:Generator_ColumnPropNameInTable="doctorColumn" msprop:Generator_UserColumnName="doctor" type="xs:string" minOccurs="0" />
+              <xs:element name="paciente" msprop:Generator_ColumnVarNameInTable="columnpaciente" msprop:Generator_ColumnPropNameInRow="paciente" msprop:Generator_ColumnPropNameInTable="pacienteColumn" msprop:Generator_UserColumnName="paciente" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
